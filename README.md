@@ -7,19 +7,19 @@ Author-Level Analysis: Detailed exploration of books by a designated author, col
 
 # Methodology
 ## Data Collection
-Task 1: Best Books:
+### Task 1: Best Books:
 Scraped the "Best Books of [Year]" list from Goodreads. For example, if assigned the year 2023, the URL would be https://www.goodreads.com/list/best_of_year/2023.
 Data points include Title, Publication Date, Author, Genre, Average Rating, Number of Ratings, Number of Pages, Rank, Language, Current Readers, and Want-to-Read counts.
-Task 2: Author Analysis:
+### Task 2: Author Analysis:
 Scraped all books by a specific author from their Goodreads profile. For example, Stephen King’s profile for initials A–E.
 Data points similar to Task 1, with additional analysis on language distribution and the relationship between the author's age at publication and various metrics (page count, ratings).
 ## Analysis
-Genre Ratings: Evaluated how average ratings vary across genres.
-Popularity and Ratings: Investigated the relationship between the number of ratings a book receives and its average rating.
-Author's Trends: Analyzed the change in page count and book ratings as the author aged.
-Interest and Ratings: Explored correlations between reader interest (currently reading and want-to-read counts) and book ratings.
+### Genre Ratings: Evaluated how average ratings vary across genres.
+### Popularity and Ratings: Investigated the relationship between the number of ratings a book receives and its average rating.
+### Author's Trends: Analyzed the change in page count and book ratings as the author aged.
+### Interest and Ratings: Explored correlations between reader interest (currently reading and want-to-read counts) and book ratings.
 ## Results
-Key Insights:
+### Key Insights:
 Identified the genres with the highest average ratings.
 Examined whether more popular books (higher ratings count) receive better or worse ratings.
 Analyzed the publishing trends of [Author Name], including how their writing evolved over time.

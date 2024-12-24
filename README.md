@@ -14,10 +14,14 @@ Data points include Title, Publication Date, Author, Genre, Average Rating, Numb
 Scraped all books by a specific author from their Goodreads profile. For example, Stephen King’s profile for initials A–E.
 Data points similar to Task 1, with additional analysis on language distribution and the relationship between the author's age at publication and various metrics (page count, ratings).
 ## Analysis
-### Genre Ratings: Evaluated how average ratings vary across genres.
-### Popularity and Ratings: Investigated the relationship between the number of ratings a book receives and its average rating.
-### Author's Trends: Analyzed the change in page count and book ratings as the author aged.
-### Interest and Ratings: Explored correlations between reader interest (currently reading and want-to-read counts) and book ratings.
+### Genre Ratings: 
+Evaluated how average ratings vary across genres.
+### Popularity and Ratings: 
+Investigated the relationship between the number of ratings a book receives and its average rating.
+### Author's Trends: 
+Analyzed the change in page count and book ratings as the author aged.
+### Interest and Ratings: 
+Explored correlations between reader interest (currently reading and want-to-read counts) and book ratings.
 ## Results
 ### Key Insights:
 Identified the genres with the highest average ratings.
